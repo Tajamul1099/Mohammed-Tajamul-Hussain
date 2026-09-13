@@ -38,12 +38,12 @@ class DataAnalyst:
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/mdtajamulhussain" target="_blank">
+  <a href="https://www.linkedin.com/in/mdtajamulhussain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tajamul1099@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tajamul1099@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="35" alt="Gmail"/>
+</a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -179,6 +179,6 @@ flowchart LR
 
 **Thanks for visiting my profile! 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=2E9EF7" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Tajamul1099&style=flat-square&color=2E9EF7" alt="Profile views" />
 
 </div>
