@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed Tajamul Hussain
+# 👋 Hi, I'm Tajamul1099
 
 ### 📊 Data Analyst | Python | SQL | Excel | Power BI
 
